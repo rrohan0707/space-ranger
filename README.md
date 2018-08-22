@@ -1,2 +1,2 @@
-# space-ranger
- Intergalactic wormhole way  to parallel space
+# Space-Ranger
+ Wormhole way  to parallel space
